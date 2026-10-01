@@ -3,6 +3,8 @@
   "title": "Kibbles' Generic Elemental Spells",
   "description": "An expanded pack of Elemental Spells",
   "version": "2.0.1",
+  "manifest": "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/module.json",
+  "download": "https://github.com/SEU-USUARIO/SEU-REPO/releases/latest/download/module.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "13"
